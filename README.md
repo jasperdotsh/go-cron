@@ -1,6 +1,6 @@
 # go-cron
 
-A light, dependency-free Go library for parsing standard five-field cron expressions (`Minute Hour DayOfMonth Month DayOfWeek`) and comptuing next and previous execution.
+A light, dependency-free Go library for parsing standard five-field cron expressions (`Minute Hour DayOfMonth Month DayOfWeek`) and computing next and previous execution.
 
 ## Installation
 
